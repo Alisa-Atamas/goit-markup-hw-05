@@ -447,9 +447,9 @@ position: relative;
 }
 
 
-.form {
+/*.form {
 
-}
+}*/
 
 .form-text {
   margin-bottom: 16px;
@@ -467,9 +467,9 @@ position: relative;
 
 }
 
-.form-label {
+/*.form-label {
 
-}
+}*/
 
 .form-input {
 width: 264px;
@@ -486,7 +486,7 @@ color: #ffffff;
 }
 
 .form-input::placeholder {
-  color #ffffff;
+  color: #ffffff;
 }
 
 .btn-form {
