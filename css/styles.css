@@ -583,7 +583,7 @@ border: none;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.close-black:hover, .close-black:focus {
+.btn-close-black:hover > svg, .btn-close-black:focus > svg {
   fill: #ffffff;
 }
 
